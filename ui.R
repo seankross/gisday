@@ -2,7 +2,7 @@ library(shiny)
 library(leaflet)
 
 shinyUI(fluidPage(
-  titlePanel("Your Own Add Markers!"),
+  titlePanel("Add Your Own Markers!"),
   sidebarLayout(
     sidebarPanel(
       numericInput("lat", "Latitude", value = 39.9523303, step = .001),
