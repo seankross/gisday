@@ -5,8 +5,16 @@
 - [Install R](https://cran.r-project.org/)
 - [Install RStudio](https://www.rstudio.com/products/rstudio/download3/)
 
+## New to R?
+
+Start here:
+
+- [Install swirl](http://swirlstats.com/students.html)
+- Start with the R Programming Course
+
 ## Slides
 
+- [Hello!](./hello.html)
 - [Shiny Part 1](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_1/Shiny_Part_1.html)
 - [Shiny Part 2](https://datasciencespecialization.github.io/Developing_Data_Products/Shiny_Part_2/Shiny_Part_2.html)
 - [Leaflet](https://datasciencespecialization.github.io/Developing_Data_Products/leaflet/leaflet.html)
@@ -66,6 +74,9 @@ runGitHub("DataScienceSpecialization/Developing_Data_Products", subdir = "Shiny_
 
 # App 8
 runGitHub("DataScienceSpecialization/Developing_Data_Products", subdir = "Shiny_Part_2/app4/")
+
+# Shiny & Leaflet Demo
+runGitHub("seankross/gisday")
 
 # Baltimore Crime Browser
 runGitHub("seankross/Baltimore_Crime_Browser")

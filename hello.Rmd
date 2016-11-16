@@ -1,0 +1,28 @@
+---
+title: "GIS Day 2016"
+author: "Sean Kross"
+date: "November 16, 2016"
+output: ioslides_presentation
+---
+
+## Hello!
+
+## Who am I?
+
+- Sean Kross
+- Johns Hopkins Data Science Lab
+- Twitter: \@seankross
+
+## What are we going to do?
+
+- Shiny
+- Leaflet
+- Workshop
+
+## Why am I here?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg" height="500">
+
+## Resources
+
+http://seankross.com/gisday
