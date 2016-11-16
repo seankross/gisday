@@ -86,3 +86,16 @@ runGitHub("seankross/Baltimore_Crime_Browser")
 
 - [ggmap](https://github.com/dkahle/ggmap)
 - [CRAN Task View: Analysis of Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
+
+## Links to Code for Apps
+
+- [App 1](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_1/app1)
+- [App 2](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_1/app2)
+- [App 3](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_1/app3)
+- [App 4](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_1/app4)
+- [App 5](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_2/app1)
+- [App 6](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_2/app2)
+- [App 7](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_2/app3)
+- [App 8](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/Shiny_Part_2/app4)
+- Shiny & Leaflet Demo (Look Above!)
+- [Baltimore Crime Browser](https://github.com/seankross/Baltimore_Crime_Browser)
